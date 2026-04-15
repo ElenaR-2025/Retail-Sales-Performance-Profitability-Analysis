@@ -11,7 +11,7 @@
 
 ## Dashboard Preview
 
-![Dashboard Preview](Retail_Sales_Performance___Profitability_Analysis.png)
+![Dashboard Preview](Retail Sales Performance & Profitability Analysis.png)
 
 ---
 
