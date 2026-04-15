@@ -96,6 +96,6 @@ This project reinforced that **revenue and profitability tell different stories*
 ## File Structure
 
 ```
-├── Retail_Sales_Performance___Profitability_Analysis.png   # Dashboard screenshot
-├── RetailPromotions2023_.xlsx                              # Source data
+├── dashboard-overview..png            # Dashboard screenshot
+├── RetailPromotions2023_.xlsx         # Source data
 └── README.md
